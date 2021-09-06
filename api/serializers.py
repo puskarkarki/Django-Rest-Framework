@@ -7,4 +7,3 @@ class BookSerializer(serializers.ModelSerializer):
         model = Books
         fields = ('title', 'subtitle', 'author', 'isbn')
     
-    

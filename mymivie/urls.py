@@ -21,5 +21,6 @@ urlpatterns = [
     path('', include('movie_app.urls')),
     path('rest/', include('res_tutorials.urls')),
     path('api/', include('api.urls')),
+    path('todo/', include('todoapp.urls')),
 
 ]

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'res_tutorials',
     'rest_framework',
     'api',
+    'todoapp',
     
 ]
 
